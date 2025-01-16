@@ -100,7 +100,7 @@ main{
     max-width: 1140px;
     margin: 0 auto;
     padding: 130px 150px;
-    text-align: center;
+    /* text-align: center; */
 }
 main section{
     margin-top: 130px;
@@ -174,4 +174,5 @@ main section{
 }
 .resume-download-cv{
     margin: 30px 5px;
+    
 }
